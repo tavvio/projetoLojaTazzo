@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/QI/AndroidStudioProjects/lojaTazzoA/app/src/main/res/drawable/button.xml" value="0.108" />
+        <entry key="..\:/Users/QI/AndroidStudioProjects/lojaTazzoA/app/src/main/res/layout/activity_finalizar_compra.xml" value="0.1" />
+        <entry key="..\:/Users/QI/AndroidStudioProjects/lojaTazzoA/app/src/main/res/layout/activity_hardware_produtos.xml" value="0.22" />
+        <entry key="..\:/Users/QI/AndroidStudioProjects/lojaTazzoA/app/src/main/res/layout/activity_perifericos.xml" value="0.1" />
+        <entry key="..\:/Users/QI/AndroidStudioProjects/lojaTazzoA/app/src/main/res/layout/activity_sobre.xml" value="0.25" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/drawable/background.xml" value="0.18" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/drawable/button.xml" value="0.18" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/drawable/cardview.xml" value="0.18" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/drawable/edittext.xml" value="0.18" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/font/.xml" value="0.2552083333333333" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/layout/activity_cadastro.xml" value="0.21" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/layout/activity_cadastro_usuario.xml" value="0.25" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/layout/activity_finalizar_compra.xml" value="0.26932668329177056" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/layout/activity_hardware_produtos.xml" value="0.33" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/layout/activity_perifericos.xml" value="0.2" />
+        <entry key="..\:/src/lojaTazzoA/app/src/main/res/layout/activity_sobre.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

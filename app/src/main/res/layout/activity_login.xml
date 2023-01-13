@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".Login">
+
+  <ImageView
+      android:id="@+id/imageView3"
+      android:layout_width="match_parent"
+      android:layout_height="200dp"
+      android:layout_marginLeft="30dp"
+      android:layout_marginTop="30dp"
+      android:layout_marginRight="30dp"
+      app:srcCompat="@drawable/logo" />
+
+  <TextView
+      android:id="@+id/textView2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="30dp"
+      android:layout_marginTop="30dp"
+      android:layout_marginRight="30dp"
+      android:paddingLeft="10dp"
+      android:text="Digite seus dados abaixo:"
+      android:textColor="#000000"
+      android:textSize="25dp" />
+
+  <EditText
+      android:id="@+id/edtLoginUsuario"
+      style="@style/Edit_Text"
+      android:layout_width="match_parent"
+      android:layout_height="48dp"
+      android:layout_marginLeft="30dp"
+      android:layout_marginTop="30dp"
+      android:layout_marginRight="30dp"
+      android:ems="10"
+      android:hint="Usuário"
+      android:inputType="textPersonName"
+      android:padding="10dp"
+      android:textSize="20dp" />
+
+  <EditText
+      android:id="@+id/edtSenhaUsuario"
+      style="@style/Edit_Text"
+      android:layout_width="match_parent"
+      android:layout_height="48dp"
+      android:layout_marginLeft="30dp"
+      android:layout_marginTop="30dp"
+      android:layout_marginRight="30dp"
+      android:ems="10"
+      android:hint="Digite sua senha"
+      android:inputType="textPersonName"
+      android:padding="10dp"
+      android:textSize="20dp" />
+
+  <Button
+      android:id="@+id/btnLoginLogin"
+      style="@style/button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="30dp"
+      android:layout_marginTop="30dp"
+      android:layout_marginRight="30dp"
+      android:onClick="logar"
+      android:text="Logar"
+      android:textSize="20dp" />
+
+  <CheckBox
+      android:id="@+id/checkBox"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="30dp"
+      android:layout_marginTop="5dp"
+      android:layout_marginRight="30dp"
+      android:text="Lembrar usuário"
+      android:textColor="#000000"
+      android:textSize="18dp" />
+
+  <Button
+      android:id="@+id/btnVoltarLogin"
+      style="@style/button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="30dp"
+      android:layout_marginTop="20dp"
+      android:layout_marginRight="30dp"
+      android:onClick="voltarParaInicio"
+      android:text="Voltar"
+      android:textSize="20dp" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
